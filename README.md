@@ -1,4 +1,4 @@
-# Number Plate Detection and Recognition
+# Number Plate Detection and Text Extraction using PaddleOCR
 
 ## 📋 Project Overview
 
