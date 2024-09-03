@@ -38,7 +38,7 @@ To set up this project locally, follow these steps:
 3. **Install Dependencies:**
     Make sure you have Python 3.9 installed, then install the required libraries:
     ```bash
-    pip install ultralytics opencv-python matplotlib pandas
+    pip install ultralytics opencv-python matplotlib pandas paddlepaddle paddleocr
     ```
 
 ## 🏗️ Usage
