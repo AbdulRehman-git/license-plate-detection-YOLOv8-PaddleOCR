@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive
+val: /content/drive/MyDrive
+test: /content/drive/MyDrive
+
+nc: 1
+names: ['License_Plate']
